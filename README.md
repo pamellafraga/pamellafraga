@@ -1,4 +1,4 @@
-![Developer](https://user-images.githubusercontent.com/124919714/224517548-8aa1c13f-9358-468d-8b79-d1b33d9ca1c7.png)
+![Developer (1)](https://user-images.githubusercontent.com/124919714/224518104-a96922e8-5a51-4ef0-868e-736af43adb46.png)
 
 ## Skills
 <div style="display: inline_block"><br>
