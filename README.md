@@ -8,6 +8,12 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
+  ## Soft Skills
+  
+- Communication
+- Productivity and Time Management
+- Agility in Troubleshooting
+- Emotional intelligence
   ## Find me around the web
  
 <div> 
