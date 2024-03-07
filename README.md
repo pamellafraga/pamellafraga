@@ -1,6 +1,10 @@
-![Developer (1)](https://user-images.githubusercontent.com/124919714/224518104-a96922e8-5a51-4ef0-868e-736af43adb46.png)
+## Hi! I'm Pamella Fraga.
 
-## Skills
+<div>
+
+</div>
+
+### Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -11,7 +15,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ## Soft Skills
+  ### Soft Skills
   
 - Communication
 - Productivity and Time Management
