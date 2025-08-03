@@ -32,23 +32,20 @@ Meu objetivo é crescer como profissional, me destacar entre os melhores e inspi
 <br/>
 <br/>
 
+
 ---
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=pamellafraga&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
   <img 
-    align="left" 
     alt="GitHub Top Languages" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamellafraga&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
@@ -57,10 +54,12 @@ Meu objetivo é crescer como profissional, me destacar entre os melhores e inspi
 
 ### 📬 Contato
 
-- 📧 E-mail: [ti.pamellafrag@gmail.com](mailto:ti.pamellafrag@gmail.com)  
-- 📸 Instagram: [@pamellafrag](https://www.instagram.com/pamellafrag)  
-- 🎥 YouTube: [TI.PamellaFraga](https://www.youtube.com/@TI.PamellaFraga)
+- 📧 **E-mail:** [ti.pamellafrag@gmail.com](mailto:ti.pamellafrag@gmail.com)  
+- 📸 **Instagram:** [@pamellafrag](https://www.instagram.com/pamellafrag)  
+- 🎥 **YouTube:** [TI.PamellaFraga](https://www.youtube.com/@TI.PamellaFraga)
 
 ---
+
+✨ _"Transformando ideias em código e desafios em soluções."_ ✨
 
 ✨ _"Transformando ideias em código e desafios em soluções."_ ✨
