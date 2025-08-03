@@ -62,4 +62,3 @@ Meu objetivo é crescer como profissional, me destacar entre os melhores e inspi
 
 ✨ _"Transformando ideias em código e desafios em soluções."_ ✨
 
-✨ _"Transformando ideias em código e desafios em soluções."_ ✨
