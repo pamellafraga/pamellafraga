@@ -2,40 +2,13 @@
 
 **`Desenvolvedora Full Stack`**
 
-Me chamo **Pamella Fraga**, sou brasileira e apaixonada por tecnologia. Compartilho meu conhecimento com outros devs através do canal no YouTube [TI.PamellaFraga](https://www.youtube.com/@TI.PamellaFraga), onde ensino a criar projetos web, e também pelo Instagram [@pamellafrag](https://www.instagram.com/pamellafrag), onde posto dicas, experiências e bastidores da minha jornada como programadora.
+Me chamo **Pamella Fraga**, sou desenvolvedora Full Stack brasileira, apaixonada por resolver problemas através da tecnologia. Tenho orgulho de trilhar minha jornada como mulher na programação, buscando sempre evolução técnica, desafios reais e inovação.
 
-Acredito que a tecnologia tem o poder de transformar realidades e estou constantemente me desafiando a criar soluções modernas e impactantes, combinando criatividade com código limpo e funcional.
+Acredito que o código é mais do que lógica — é expressão, transformação e impacto. Estou em constante aprendizado, desenvolvendo projetos que unem estratégia, usabilidade e performance, com foco em entregar valor de verdade.
 
-<p align="left">
-    <a href="https://www.youtube.com/@TI.PamellaFraga?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@TI.PamellaFraga">
-        <img 
-            alt="youtube views" 
-            title="Visualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/pamellafraga?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/pamellafraga?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/pamellafraga?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/pamellafraga?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Meu objetivo é crescer como profissional, me destacar entre os melhores e inspirar, com consistência e trabalho sério, outras mulheres que também sonham alto dentro da tecnologia.
+
+
 
 ---
 
