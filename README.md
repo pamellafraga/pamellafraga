@@ -65,17 +65,11 @@ Meu objetivo é crescer como profissional, me destacar entre os melhores e inspi
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pamellafraga&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamellafraga&layout=compact&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamellafraga&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamellafraga&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pamellafraga&theme=dracula&utcOffset=-3" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pamellafraga&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pamellafraga&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
