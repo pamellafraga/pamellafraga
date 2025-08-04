@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pamella Fraga
+# 🍃 Pamella Fraga
 
 **`Desenvolvedora Full Stack`**
 
