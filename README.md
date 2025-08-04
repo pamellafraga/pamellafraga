@@ -39,14 +39,6 @@ Meu objetivo é crescer como profissional, me destacar entre os melhores e inspi
 
 ---
 
-### 📬 Contato
-
-- 📧 **E-mail:** [ti.pamellafrag@gmail.com](mailto:ti.pamellafrag@gmail.com)  
-- 📸 **Instagram:** [@pamellafrag](https://www.instagram.com/pamellafrag)  
-- 🎥 **YouTube:** [TI.PamellaFraga](https://www.youtube.com/@TI.PamellaFraga)
-
----
-
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamellafraga&theme=nord_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamellafraga&theme=nord_dark" />
