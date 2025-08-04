@@ -1,10 +1,10 @@
-# 🍃 Pamella Fraga
+# 🧠💻 Pamella Fraga — Psicóloga que também programa!
 
 **`Desenvolvedora Full Stack`**
 
-Me chamo **Pamella Fraga**, sou desenvolvedora Full Stack brasileira, apaixonada por resolver problemas através da tecnologia. Tenho orgulho de trilhar minha jornada como mulher na programação, buscando sempre evolução técnica, desafios reais e inovação.
+Me chamo **Pamella Fraga**, sou desenvolvedora Full Stack brasileira, apaixonada por tecnologia, comportamento humano e desenvolvimento de soluções com propósito. Tenho orgulho de trilhar minha jornada como mulher na programação, buscando sempre evolução técnica, desafios reais e inovação. Carrego conhecimentos de Análise e Desenvolvimento de Sistemas, e também em Psicologia, meu diferencial está em unir lógica e empatia para criar interfaces e sistemas que realmente **conectam com as pessoas**.
 
-Acredito que o código é mais do que lógica — é expressão, transformação e impacto. Estou em constante aprendizado, desenvolvendo projetos que unem estratégia, usabilidade e performance, com foco em entregar valor de verdade.
+ 🪄 Acredito em tecnologia com propósito — não basta funcionar, tem que transformar!
 
 Meu objetivo é crescer como profissional, me destacar entre os melhores e inspirar, com consistência e trabalho sério, outras mulheres que também sonham alto dentro da tecnologia.
 
