@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/pamellafraga/pamellafraga/main/pamellafrag.png" alt="Welcome banner" style="border-radius: 10px;" />
 </p>
+
 # 🧠💻 Pamella Fraga — Psicóloga que também programa!
 
 **`Desenvolvedora Full Stack`**
