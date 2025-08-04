@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pamellafraga/pamellafraga/main/pamellafrag.png" alt="Welcome banner" />
+  <img src="https://raw.githubusercontent.com/pamellafraga/pamellafraga/main/welcome-dark.png" alt="Welcome banner" />
 </p>
 
 # 🧠💻 Pamella Fraga — Psicóloga que também programa!
