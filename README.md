@@ -64,5 +64,13 @@ Meu objetivo é crescer como profissional, me destacar entre os melhores e inspi
 
 ---
 
+### 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pamellafraga&theme=onedark&margin-w=10&margin-h=10&column=6" />
+</p>
+
+---
+
 ✨ _"Transformando ideias em código e desafios em soluções."_ ✨
 
