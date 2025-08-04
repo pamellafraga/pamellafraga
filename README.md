@@ -48,9 +48,9 @@ Meu objetivo é crescer como profissional, me destacar entre os melhores e inspi
 ---
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamellafraga&theme=dracula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamellafraga&theme=dracula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pamellafraga&theme=dracula&utcOffset=-3" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamellafraga&theme=midnight_purple" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamellafraga&theme=midnight_purple" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pamellafraga&theme=midnight_purple&utcOffset=-3" />
 </p>
 
 
