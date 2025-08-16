@@ -2,16 +2,15 @@
   <img src="https://raw.githubusercontent.com/pamellafraga/pamellafraga/main/welcome-dark.png" alt="Welcome banner" />
 </p>
 
-# 🧠💻 Pamella Fraga — Psicóloga que também programa!
+# 💻 Pamella Fraga — Software Engineering Student & Full Stack Developer
 
 **`Desenvolvedora Full Stack`**
 
-Me chamo **Pamella Fraga**, sou desenvolvedora Full Stack brasileira, apaixonada por tecnologia, comportamento humano e desenvolvimento de soluções com propósito. Tenho orgulho de trilhar minha jornada como mulher na programação, buscando sempre evolução técnica, desafios reais e inovação. Carrego conhecimentos de Análise e Desenvolvimento de Sistemas, e também em Psicologia, meu diferencial está em unir lógica e empatia para criar interfaces e sistemas que realmente **conectam com as pessoas**.
+Me chamo **Pamella Fraga**, sou **graduanda em Engenharia de Software** e apaixonada por tecnologia, inovação e desenvolvimento de soluções digitais.  
+Minha trajetória inclui estudos em **Psicologia** e **Análise e Desenvolvimento de Sistemas**, que me trouxeram visão analítica, inteligência emocional e habilidades técnicas — diferenciais que aplico para criar interfaces e sistemas que realmente **conectam com as pessoas**.
 
- 🪄 Acredito em tecnologia com propósito — não basta funcionar, tem que transformar!
-
-Meu objetivo é crescer como profissional, me destacar entre os melhores e inspirar, com consistência e trabalho sério, outras mulheres que também sonham alto dentro da tecnologia.
-
+ 🪄Acredito que tecnologia não deve apenas funcionar, mas **transformar vidas**.  
+🚀 Meu objetivo é crescer como profissional, me destacar entre os melhores e inspirar outras mulheres que sonham em entrar no mundo da tecnologia.
 
 
 ---
